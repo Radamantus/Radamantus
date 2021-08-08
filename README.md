@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oiii! Eu sou o Luís Augusto
  <div>
   <a href="https://github.com/Radamantus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radamantus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
