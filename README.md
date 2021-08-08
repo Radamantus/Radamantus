@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Guto-DBZ" src="https://drive.google.com/file/d/1Q1IRACLICy3TDk5zHqBnX_wqJI35TSZ4/view?usp=sharing">
+  <img align="right" alt="Guto-Tanjiro" src="https://c.tenor.com/PqFx3thZmfYAAAAM/roku-vi.gif">
 </div>
   
   ##
