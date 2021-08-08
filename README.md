@@ -1,7 +1,7 @@
 ## Olá, eu sou o Luís Augusto! Seja bem-vindo.
  <div>
   <a href="https://github.com/Radamantus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Radamantus&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Radamantus&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&line_height=1"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radamantus&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
