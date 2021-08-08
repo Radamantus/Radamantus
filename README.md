@@ -5,8 +5,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radamantus&layout=compact&langs_count=3&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Guto-Python" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
- <img align="center" alt="Guto-Matlab" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Guto-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Guto-Matlab" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Guto-Jupyter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="right" alt="Guto-Tanjiro" src="https://c.tenor.com/PqFx3thZmfYAAAAM/roku-vi.gif">
 </div>
   
