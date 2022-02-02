@@ -6,7 +6,7 @@ Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UF
 - Linguagem de Programação Python (Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn);
 - Aprendizado de Máquina (Machine Learning e Deep Learning);
 - Inteligência Computacional (Lógica e Controle Fuzzy);
-- Automação de Processos Repetitivos (RPA)
+- Automação de Processos Repetitivos (RPA);
 - Banco de Dados Relacionais (SQL e MySQL);
 - Extração, limpeza e visualização de dados (Matlab, Excel e Power BI).
  <div>
