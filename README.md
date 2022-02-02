@@ -2,11 +2,13 @@
 
 Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Sou um profissional automotivado, disciplinado e pontual.
 
-Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me em na área de ciência de dados e inteligência artificial voltada para solução de problemas de negócio. Possuo conhecimentos em:
+Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me em na área de Ciência de Dados (Data Science) e Inteligência Artificial (IA) voltada para solução de problemas de negócio. Possuo conhecimentos em:
 - Linguagem de Programação Python (Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn);
 - Aprendizado de Máquina (Machine Learning e Deep Learning);
+- Inteligência Computacional (Lógica e Controle Fuzzy);
+- Automação de Processos Repetitivos (RPA)
 - Banco de Dados Relacionais (SQL e MySQL);
-- Extração, limpeza e visualização de dados (Excel e Power BI).
+- Extração, limpeza e visualização de dados (Matlab, Excel e Power BI).
  <div>
   <a href="https://github.com/Radamantus">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Radamantus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
