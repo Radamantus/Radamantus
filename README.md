@@ -1,8 +1,10 @@
 ## 🚀❤️ Olá, eu sou o Luís Augusto! Seja bem-vindo. 💣💥
 
-Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Sou um profissional automotivado, disciplinado e pontual.
+<p align = 'justify' >
+Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Sou um profissional automotivado, disciplinado e pontual.</p>
 
-Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me em na área de Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo conhecimentos em:
+<p align = 'justify' >
+Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me em na área de Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo conhecimentos em:</p>
 - Linguagem de Programação Python (Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn);
 - Aprendizado de Máquina (Machine Learning e Deep Learning);
 - Inteligência Computacional (Lógica e Controle Fuzzy);
