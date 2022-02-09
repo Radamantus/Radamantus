@@ -11,7 +11,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 - Extração, Limpeza e Visualização de Dados (Matlab, Excel e Power BI);
 - Idiomas (Português Nativo e Inglês Fluente).
 
-Para informações mais detalhadas, acesse meu currículo online disponível em: [gutossauros](https://radamantus.github.io/)
+🤩 Para informações mais detalhadas, acesse meu [currículo online](https://radamantus.github.io).
  <div>
   <a href="https://github.com/Radamantus">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Radamantus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
