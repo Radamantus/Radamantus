@@ -1,10 +1,7 @@
 ## 🚀❤️ Olá, eu sou o Luís Augusto! Seja bem-vindo. 💣💥
 
 <p align = 'justify' >
-Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Sou um profissional automotivado, disciplinado e pontual.</p>
-
-<p align = 'justify' >
-Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me em na área de Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo conhecimentos em:</p>
+Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Sou um profissional automotivado, disciplinado e pontual. Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me em na área de Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo conhecimentos em:</p>
 
 - Linguagem de Programação Python (Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn);
 - Aprendizado de Máquina (Machine Learning e Deep Learning);
@@ -22,9 +19,9 @@ Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UF
   <img align="center" alt="Guto-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Guto-Matlab" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="Guto-Jupyter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Guto-Arduino" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Guto-Mysql" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Guto-Heroku" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+  <img align="center" alt="Guto-Arduino" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="right" alt="Guto-Tanjiro" src="https://c.tenor.com/PqFx3thZmfYAAAAM/roku-vi.gif">
 </div>
   
