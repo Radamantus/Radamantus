@@ -11,7 +11,7 @@ Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UF
 - Inteligência Computacional (Lógica e Controle Fuzzy);
 - Automação de Processos Repetitivos (RPA);
 - Banco de Dados Relacionais (SQL e MySQL);
-- Extração, Limpeza e Visualização de Dados (Matlab, Excel e Power BI).
+- Extração, Limpeza e Visualização de Dados (Matlab, Excel e Power BI);
 - Idiomas (Português Nativo e Inglês Fluente).
  <div>
   <a href="https://github.com/Radamantus">
