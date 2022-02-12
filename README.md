@@ -26,8 +26,8 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
   <img align="center" alt="Guto-Arduino" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="right" alt="Guto-Tanjiro" src="https://c.tenor.com/PqFx3thZmfYAAAAM/roku-vi.gif">
 </div>
-  
-  ##
+
+   ![Snake animation](https://github.com/Radamantus/Radamantus/blob/output/github-contribution-grid-snake.svg)
  
 <div> 
  <a href="https://twitter.com/gutossauros" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
