@@ -37,7 +37,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
   <a href="https://www.linkedin.com/in/luismesquitacastro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 ## Principal Repositório 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Radamantus&repo=Python_Notebooks&theme=algolia)](https://github.com/Radamantus/Python_Notebooks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Radamantus&repo=Python ala Notebooks&theme=algolia)](https://github.com/Radamantus/Python_Notebooks)
  
 ![Snake animation](https://github.com/Radamantus/Radamantus/blob/output/github-contribution-grid-snake.svg)
  
