@@ -12,10 +12,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 - Idiomas (Português Nativo e Inglês Fluente).
 
 🚨 Para informações mais detalhadas, acesse o meu [currículo online](https://radamantus.github.io). 🚨
- <div>
-  <a href="https://github.com/Radamantus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radamantus&layout=compact&langs_count=3&theme=algolia"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Guto-Matlab" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
@@ -37,6 +34,11 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
  
 ## Principal Repositório 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Radamantus&repo=Python_Notebooks&theme=algolia)](https://github.com/Radamantus/Python_Notebooks)
+
+<div>
+  <a href="https://github.com/Radamantus">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radamantus&layout=compact&langs_count=3&theme=algolia"/>
+</div>
  
 ![Snake animation](https://github.com/Radamantus/Radamantus/blob/output/github-contribution-grid-snake.svg)
  
