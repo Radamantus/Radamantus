@@ -20,7 +20,6 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
   <img align="center" alt="Guto-Mysql" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Guto-Heroku" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="Guto-Arduino" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="right" alt="Guto-Tanjiro" src="https://c.tenor.com/PqFx3thZmfYAAAAM/roku-vi.gif">
 </div>
 
 ##
