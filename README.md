@@ -37,7 +37,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 
 <div>
   <a href="https://github.com/Radamantus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radamantus&layout=compact&langs_count=3&theme=algolia"/>
+  <img height="150em" width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radamantus&layout=compact&langs_count=3&theme=algolia"/>
 </div>
  
 ![Snake animation](https://github.com/Radamantus/Radamantus/blob/output/github-contribution-grid-snake.svg)
