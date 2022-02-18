@@ -34,11 +34,6 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
  
 ## Principal Repositório 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Radamantus&repo=Python_Notebooks&theme=algolia)](https://github.com/Radamantus/Python_Notebooks)
-
-<div>
-  <a href="https://github.com/Radamantus">
-  <img height="150em" width="850em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radamantus&layout=compact&langs_count=3&theme=algolia"/>
-</div>
  
 ![Snake animation](https://github.com/Radamantus/Radamantus/blob/output/github-contribution-grid-snake.svg)
  
