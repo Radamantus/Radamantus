@@ -1,4 +1,4 @@
-## 🚀❤️ Olá, eu sou o Luís Augusto! Seja bem-vindo. 💣💥
+## 🚀❤️ Olá, eu sou o Luís Augusto! Seja bem-vindo. 💣💥 <img src="https://komarev.com/ghpvc/?username=Radamantus&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
 
 <p align = 'justify' >
 Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Sou um profissional automotivado, disciplinado e pontual. Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me em na área de Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo conhecimentos em:</p>
