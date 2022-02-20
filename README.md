@@ -29,7 +29,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 <div> 
  <a href="https://twitter.com/gutossauros" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC4VNzZ3_7Dl6v9r3jLdYuJw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gutossauros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-F21DA1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gutossauros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-A11DF2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luis.mesquita.castro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luismesquitacastro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
