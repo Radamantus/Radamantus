@@ -14,7 +14,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 
 🚨 Para informações mais detalhadas, acesse o meu [currículo online](https://radamantus.github.io). 🚨
 
-## Habilidades
+## 🎯 Conhecimentos e Habilidades
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Guto-Jupyter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
