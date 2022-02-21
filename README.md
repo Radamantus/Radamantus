@@ -14,7 +14,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 
 🚨 Para informações mais detalhadas, acesse o meu [currículo online](https://radamantus.github.io). 🚨
 
-#### 🔮 Conhecimentos e Habilidades
+### 🔮 Conhecimentos e Habilidades
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Guto-Jupyter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
@@ -26,7 +26,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
   <img align="center" alt="Guto-Arduino" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
 
-#### 🎯 Informações e Contatos
+### 🎯 Informações e Contatos
 <div> 
  <a href="https://twitter.com/gutossauros" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC4VNzZ3_7Dl6v9r3jLdYuJw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -34,7 +34,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
   <a href = "mailto:luis.mesquita.castro@gmail.com"><img src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luismesquitacastro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-#### 🎁 Principal Repositório 
+### 🎁 Principal Repositório 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Radamantus&repo=Python_Notebooks&theme=algolia)](https://github.com/Radamantus/Python_Notebooks)
  
 ![Snake animation](https://github.com/Radamantus/Radamantus/blob/output/github-contribution-grid-snake.svg)
