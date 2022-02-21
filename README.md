@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Radamantus/Radamantus/main/dragon_ball.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Radamantus Picture">
 
 <p align = 'justify' >
-Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Sou um profissional automotivado, disciplinado e pontual. Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me em na área de Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo conhecimentos em:</p>
+Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Sou um profissional automotivado, disciplinado e pontual. Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me em Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo conhecimentos em:</p>
 
 - Linguagem de Programação Python (Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn);
 - Aprendizado de Máquina (Machine Learning e Deep Learning);
