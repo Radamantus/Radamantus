@@ -12,7 +12,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 - Extração, Limpeza e Visualização de Dados (Matlab, Excel e Power BI);
 - Idiomas (Português Nativo e Inglês Fluente).
 
-🚨 Para informações mais detalhadas, acesse o meu [currículo online](https://radamantus.github.io). 🚨
+✨ Para informações mais detalhadas, acesse o meu [currículo online](https://radamantus.github.io). ✨
 
 ## 🔮 Habilidades
 <div style="display: inline_block"><br>
