@@ -9,7 +9,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 - Inteligência Computacional (Lógica e Controle Fuzzy);
 - Automação de Processos Repetitivos (RPA);
 - Banco de Dados Relacionais (SQL, SQLite e MySQL);
-- Banco de Dados Não Relacionais (NoSQL e MongoDB);
+- Banco de Dados Não Relacionais (NoSQL, MongoDB e BigQuery);
 - Extração, Limpeza e Visualização de Dados (Matlab, Excel e Power BI);
 - Idiomas (Português Nativo e Inglês Fluente).
 
