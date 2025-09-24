@@ -5,6 +5,7 @@
 Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) e Doutorado (2022) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Sou um profissional automotivado, disciplinado e pontual. Atualmente sou colaborador no Instituto de Pesquisas Eldorado (IPE). Estou constantemente desenvolvendo minhas habilidades e sou qualificado na área de Ciência de Dados (Data Science), Machine Learning (ML) e Agentes de IA (AI Agents) voltada para solução de problemas complexos de negócio. Possuo conhecimentos em:</p>
 
 - Linguagem de Programação Python (Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn);
+- Agentes de IA (CrewAI, LangGraph e CloudRun);
 - Aprendizado de Máquina (Machine Learning e Deep Learning);
 - Inteligência Computacional (Lógica e Controle Fuzzy);
 - Automação de Processos Repetitivos (RPA);
