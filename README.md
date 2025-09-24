@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Radamantus/Radamantus/main/dragon_ball.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Radamantus Picture">
 
 <p align = 'justify' >
-Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) e Doutorado (2022) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Sou um profissional automotivado, disciplinado e pontual. Atualmente sou colaborador no Instituto de Pesquisas Eldorado (IPE). Estou constantemente desenvolvendo minhas habilidades e qualificando-me na área de Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo conhecimentos em:</p>
+Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) e Doutorado (2022) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Sou um profissional automotivado, disciplinado e pontual. Atualmente sou colaborador no Instituto de Pesquisas Eldorado (IPE). Estou constantemente desenvolvendo minhas habilidades e sou qualificado na área de Ciência de Dados (Data Science), Machine Learning (ML) e Agentes de IA (AI Agents) voltada para solução de problemas complexos de negócio. Possuo conhecimentos em:</p>
 
 - Linguagem de Programação Python (Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn);
 - Aprendizado de Máquina (Machine Learning e Deep Learning);
